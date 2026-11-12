@@ -127,7 +127,7 @@ The project uses `student_performance.csv`, which contains **1,000 student recor
 **1️⃣ Clone or download this repository**
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/Falakmuzaffar-AI12/Student-Performance-Predictor.git
 cd Student-Performance-Predictor
 ```
 
